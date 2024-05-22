@@ -1,0 +1,1 @@
+function logPoint(p: Point) { console.log(`${p.x}, ${p.y}`); }

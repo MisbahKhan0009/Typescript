@@ -1,0 +1,1 @@
+let myAdd: (x: number, y: number) => number = function(x, y) { return x + y; };

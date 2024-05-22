@@ -1,0 +1,1 @@
+const names: string[] = ["Alice", "Bob", "Charlie"];

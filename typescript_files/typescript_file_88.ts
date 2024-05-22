@@ -1,0 +1,1 @@
+class Component { protected element: HTMLElement; constructor(element: HTMLElement) { this.element = element; } } class SubComponent extends Component { private someProperty: string; constructor(element: HTMLElement, someProperty: string) { super(element); this.someProperty = someProperty; } }

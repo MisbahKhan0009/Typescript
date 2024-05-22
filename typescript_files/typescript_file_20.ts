@@ -1,0 +1,1 @@
+class Car { private engine: string; constructor(engine: string) { this.engine = engine; } start() { console.log(`Engine started: ${this.engine}`); } }
